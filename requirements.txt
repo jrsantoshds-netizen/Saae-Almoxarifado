@@ -2,7 +2,6 @@ streamlit
 pandas
 Pillow
 plotly>=5.20.0
-rembg
 reportlab
 numpy
 altair==6.0.0
